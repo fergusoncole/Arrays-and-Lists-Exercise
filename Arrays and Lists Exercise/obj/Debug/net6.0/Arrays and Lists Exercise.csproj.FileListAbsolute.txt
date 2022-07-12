@@ -1,0 +1,15 @@
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\obj\Debug\net6.0\Arrays and Lists Exercise.csproj.AssemblyReference.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\obj\Debug\net6.0\Arrays and Lists Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\obj\Debug\net6.0\Arrays and Lists Exercise.AssemblyInfoInputs.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\obj\Debug\net6.0\Arrays and Lists Exercise.AssemblyInfo.cs
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\obj\Debug\net6.0\Arrays and Lists Exercise.csproj.CoreCompileInputs.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\bin\Debug\net6.0\Arrays and Lists Exercise.exe
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\bin\Debug\net6.0\Arrays and Lists Exercise.deps.json
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\bin\Debug\net6.0\Arrays and Lists Exercise.runtimeconfig.json
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\bin\Debug\net6.0\Arrays and Lists Exercise.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\bin\Debug\net6.0\Arrays and Lists Exercise.pdb
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\obj\Debug\net6.0\Arrays and Lists Exercise.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\obj\Debug\net6.0\refint\Arrays and Lists Exercise.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\obj\Debug\net6.0\Arrays and Lists Exercise.pdb
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\obj\Debug\net6.0\Arrays and Lists Exercise.genruntimeconfig.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Arrays and Lists Exercise\Arrays and Lists Exercise\obj\Debug\net6.0\ref\Arrays and Lists Exercise.dll
